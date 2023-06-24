@@ -1,20 +1,17 @@
-# **Aurora**
-**Repository for source code of Aurora - truly free (as in freedom!) and very lightweight minecraft addon designed for Hypixel Skyblock.**
+# **Aurora YAU**
+_"Yet Another Update"_
 
-[![GPLv3 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/192px-GPLv3_Logo.svg.png)](https://commons.wikimedia.org/wiki/File:GPLv3_Logo.svg "Free Software Foundation, Public domain, via Wikimedia Commons")
+**Experimental, new-generation Aurora Version.** Aimed at rewriting and making modern core to work on.
 
-![stars](https://img.shields.io/github/stars/AuroraQoL/AuroraClient?style=social)
-[![downloads](https://img.shields.io/github/downloads/AuroraQoL/AuroraClient/total)](https://github.com/AuroraQoL/AuroraClient/releases/latest)
-![commit](https://img.shields.io/github/last-commit/AuroraQoL/AuroraClient)
-[![discord](https://badges.aleen42.com/src/discord.svg)](https://discord.gg/9GJXNKfHkC)
-![build](https://github.com/AuroraQoL/AuroraClient/actions/workflows/gradle.yml/badge.svg)
+## Current To-Do
 
-> We've implemented JUnit5-powered automatic tests for some Aurora features and core utils to ensure stability. To check the results, look bellow.
+- [ ] HUD
+- [ ] Config System
+- [ ] GUI
+- [ ] Modules Base
 
-[![Test using JUnit5](https://github.com/AuroraQoL/AuroraClient/actions/workflows/junit.yml/badge.svg)](https://github.com/AuroraQoL/AuroraClient/actions/workflows/junit.yml)
+_And more to come!..._
 
-## Join Aurora Discord community!
-https://discord.gg/9GJXNKfHkC
-
-## Check our website!
-https://auroraclient.lol/
+## Our links
+[![https://discord.gg/crabby](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/crabby)
+[![https://auroraclient.lol](https://img.shields.io/badge/Website-%23333333.svg?style=for-the-badge&logoColor=white)](https://auroraclient.lol)
